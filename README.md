@@ -9,7 +9,7 @@
     </thead>
     <tbody>
         <tr>
-            <td><img src="Basic Phrases.jpeg" widht="300"></td>
+            <td><img src="Basic Phrases.jpeg" widht="100"></td>
         </tr>
     </tbody>
 </table>
